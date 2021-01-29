@@ -28,6 +28,7 @@ Commit your code regularly and meaningfully. This helps both you (in case you ev
 Be prepared to demonstrate your understanding of this week's concepts by answering questions on the following topics. You might prepare by writing down your own answers before hand.
 
 1. Explain what a token is used for.
+    A token is used to have an individual key for each user associated with the website.
 2. What steps can you take in your web apps to keep your data secure?
 3. Describe how web servers work.
 4. Which HTTP methods can be mapped to the CRUD acronym that we use when interfacing with APIs/Servers.
@@ -67,8 +68,8 @@ Build a login form to authenticate your users.
 #### Stage 2 - Consuming the API
 
 - [ ] When `BubblePages` renders, make a GET request to fetch the color data for your bubbles.
-- [ ] In `ColorList.js`, complete the `saveEdit` and `deleteColor` functions to make AJAX requests to the API to edit/delete data
-- [ ] Watch and enjoy as your app responds to updates in the data. Check out `Bubbles.js` to see how this is built.
+- [ ] In `ColorList.js`, complete the `saveEdit` and `deleteColor` functions to make AJAX requests to the API to /delete data
+- [ ] Watch and enjoy as your app responds to updates in the data. Check out `Bubbles.js` to see how this is built.edit
 
 #### API Documentation
 
